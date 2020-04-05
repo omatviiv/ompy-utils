@@ -1,0 +1,22 @@
+{
+  "name": "omtils",
+  "version": "0.0.1",
+  "description": "collection of utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/omatviiv/omtils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "Oleh Matviiv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omatviiv/omtils/issues"
+  },
+  "homepage": "https://github.com/omatviiv/omtils#readme"
+}
