@@ -2,7 +2,7 @@ A collection of util extensions.
 
 # Install
 ```
-npm i omtils
+npm i ompy-utils
 ```
 Library is not bundled, it is provided in raw form as is
 The project that is going to use this library should bundle it, here are
@@ -16,7 +16,7 @@ module.exports = {
         test: /\.js$/,
         include: [
           path.resolve(__dirname, 'src'),
-          path.resolve(__dirname, 'node_modules/omtils'),
+          path.resolve(__dirname, 'node_modules/ompy-utils'),
         ],
         use: {
           loader: 'babel-loader',

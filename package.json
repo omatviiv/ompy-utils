@@ -1,5 +1,5 @@
 {
-  "name": "omtils",
+  "name": "ompy-utis",
   "version": "0.0.1",
   "description": "collection of utils",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/omatviiv/omtils.git"
+    "url": "git+ssh://git@github.com/omatviiv/ompy-utils.git"
   },
   "keywords": [
     "utils"
@@ -17,9 +17,9 @@
   "author": "Oleh Matviiv",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/omatviiv/omtils/issues"
+    "url": "https://github.com/omatviiv/ompy-utils/issues"
   },
-  "homepage": "https://github.com/omatviiv/omtils#readme",
+  "homepage": "https://github.com/omatviiv/ompy-utils#readme",
   "devDependencies": {
     "flow": "^0.2.3",
     "jest": "^25.2.7"
