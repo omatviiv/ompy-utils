@@ -1,3 +1,4 @@
+- move to ompy-utils
 - object size
 - object map
 - object reduce
