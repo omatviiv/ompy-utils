@@ -4,7 +4,8 @@
   "description": "collection of utils",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "flow": "flow start",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/omatviiv/omtils/issues"
   },
-  "homepage": "https://github.com/omatviiv/omtils#readme"
+  "homepage": "https://github.com/omatviiv/omtils#readme",
+  "devDependencies": {
+    "flow": "^0.2.3",
+    "jest": "^25.2.7"
+  }
 }
